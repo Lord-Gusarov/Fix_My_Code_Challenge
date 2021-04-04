@@ -8,25 +8,30 @@ You should not recode everything, just fix it!
 
 ### 0. FizzBuzz
 Please take a look at my implementation of FizzBuzz in Python:
+
 Something is going wrong….
-	* File: [0-fizzbuzz.py](0-fizzbuzz.py)
+	* File: [0-fizzbuzz.py](0x00-challenge/0-fizzbuzz.py)
 
 ### 1. Print square
 Please take a look at my implementation of printing a square in Javascript:
+
 Something is going wrong….
-	* File: [1-print_square.js](1-print_square.js)
+	* File: [1-print_square.js](0x00-challenge/1-print_square.js)
 
 ### 2. Sort
 Please find here my implementation of sorting arguments in Ruby:
+
 Something is going wrong….
-	* File: [2-sort.rb](2-sort.rb)
+	* File: [2-sort.rb](0x00-challenge/2-sort.rb)
 
 ### 3. User password
 Please find here my implementation of a User class in Python:
+
 Something is going wrong…
-	* File: [3-user.py](3-user.py)
+	* File: [3-user.py](0x00-challenge/3-user.py)
 
 ### 4. Double linked list
 Please find here my implementation of a Double linked list in C:
+
 Something is going wrong….
 	* Dir: [4-delete_dnodeint/](4-delete_dnodeint)
